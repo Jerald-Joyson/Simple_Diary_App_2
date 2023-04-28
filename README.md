@@ -9,7 +9,7 @@ This app is completely ready to use
  * That's all its done ready to use
  
  ## apk file download
-  * [My Diary.apk](Note_App) Click "View raw".
+  * [My_Diary.apk](My_Diary) Click "View raw".
 
 # SCREENSHOTS 
 
